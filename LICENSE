@@ -1,11 +1,8 @@
-# wikipedia-toxicity-data-fi
+The data itself is CC0 but please refer to https://www.tensorflow.org/datasets/catalog/wikipedia_toxicity_subtypes as the final authoritative source of license information.
 
-This is the Jigsaw toxic comment classification challenge data, machine translated from English to Finnish.
+Please adhere to the following restrictions:
 
 The translations are made using the DeepL service and the following restrictions on its use apply from the DeepL terms and conditions:
   * This data cannot be used in Machine Translation system training, development, and evaluation
   * This data cannot be used to evaluate the DeepL system against other Machine Translation systems
-
-Data from: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
-Parts of code from: https://github.com/spyysalo/wikipedia-toxicity-data
 
